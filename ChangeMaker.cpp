@@ -11,7 +11,7 @@ using namespace std;
  * Author: Barbara Anthony
  * Last Modified: 2/28/2020
  * Developed: Guy Greathouse
- * Last Modified: 3/
+ * Last Modified: 3/16/2020
  * Implement the function makeChange below which determines
  * the fewest possible coins to make change for a given amount
  * given an arbitrary set of coin denominations.
