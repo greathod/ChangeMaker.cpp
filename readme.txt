@@ -34,10 +34,3 @@
 -Limitations: A limitation to this project submission is that it will make the table for
 				each subproblem everytime a new amount is given. Meaning that the firstTable 
 				is not saved for the next instance of the problem for the same denominations.
-									
--Help: N/A
-	
--Honor Code:
-	I have acted with honesty and integrity in producing this work 
-	and am unaware of anyone who has not.
-		X  David Guy Greathouse III
